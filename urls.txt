@@ -1,3 +1,5 @@
 http://backend.course#Vasylyna-Halukh
 http://backend.course?name="ÐÐ°Ð»ÑÑ ÐÐ°ÑÐ¸Ð»Ð¸Ð½Ð°"&github_name=Vasylyna-Halukh&group="Ð¤ÐÐ-21Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 1"
+https://bank.gov.ua/NBUStatService/v1/statdirectory/ovdp?date=20240910&json
+
 
